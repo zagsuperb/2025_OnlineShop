@@ -88,7 +88,7 @@ if __name__ == "__main__":
     # TESTING CUSTOM ERRORS
     # Testing(prod_1, prod_2, prod_3, cart)
 
-    #testing HW 29/01/2025
+    #EXTRA testing HW 29/01/2025
     print('\n------------HW 29/01/2025------------')
     for product, quantity in cart:
         print(f'{product.title} * {quantity} pcs')
