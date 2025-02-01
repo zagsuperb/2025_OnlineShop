@@ -1,0 +1,23 @@
+2025-02-01 11:20:53 [INFO] shop.products: Product created: grapefruit | price: 12.5 | description: big red grapefruit
+2025-02-01 11:20:53 [INFO] shop.products: Product created: coconut | price: 44.0 | description: mid gauge brown
+2025-02-01 11:20:53 [INFO] shop.products: Product created: pineapple | price: 15.4 | description: small bitter pineapple
+2025-02-01 11:20:53 [INFO] shop.products: Product created: watermelon | price: 25.5 | description: 90% water
+2025-02-01 11:20:53 [INFO] shop.cart: Cart created. limit: 30 products max.
+2025-02-01 11:20:53 [INFO] shop.cart: 3 of grapefruit was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 2 of coconut was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 5 of pineapple was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 4 of watermelon was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: Removed 2 of coconut from cart
+2025-02-01 11:20:53 [INFO] shop.cart: Cart created. limit: 30 products max.
+2025-02-01 11:20:53 [INFO] shop.cart: 5 of grapefruit was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 1 of coconut was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 2 of pineapple was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: 1 of watermelon was added to the cart
+2025-02-01 11:20:53 [INFO] shop.cart: Carts merging was successful
+2025-02-01 11:20:53 [INFO] shop.discounts: Discount Percentage created: 10%
+2025-02-01 11:20:53 [INFO] shop.cart: Discount applied: PercentageDiscount - <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>
+2025-02-01 11:20:53 [INFO] shop.cart: Applied PercentageDiscount: <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>. The new total: 341.37
+2025-02-01 11:20:53 [INFO] shop.cart: Applied PercentageDiscount: <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>. The new total: 341.37
+2025-02-01 11:20:53 [INFO] shop.cart: Applied PercentageDiscount: <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>. The new total: 341.37
+2025-02-01 11:20:53 [INFO] shop.cart: Applied PercentageDiscount: <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>. The new total: 341.37
+2025-02-01 11:20:53 [INFO] shop.cart: Applied PercentageDiscount: <shop.discounts.PercentageDiscount object at 0x0000018EF08D2BA0>. The new total: 341.37
